@@ -1,0 +1,8 @@
+[package]
+name = "test-dict"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies.pyo3]
+path = "/Users/goldbaum/Documents/pyo3"
+features = ["auto-initialize"]
